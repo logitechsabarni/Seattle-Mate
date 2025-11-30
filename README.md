@@ -2,7 +2,7 @@
 
 # 🌆 **SettleMate – Smart City Onboarding Assistant**
 
-*A unified platform to help newcomers settle smoothly in any Indian city.*
+*A unified platform to help newcomers settle smoothly in any Indian city.* Another Name is:- Urban Ease.
 
 ---
 
